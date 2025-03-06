@@ -166,7 +166,7 @@ mysqli_close($conn);
 <tr>
 <td valign=top bgcolor=white>
 <h2><center>
-<font color="black" face="monotype corsiva" size="5">Admass university  distance Office  works for change!!</font><br>
+<font color="black" face="monotype corsiva" size="5">wolkite university  distance Office  works for change!!</font><br>
 <font color="white"><iframe name="frame" width=350px height=385px src="date.php"></iframe><a></center></h2>
 <a href="https://www.facebook.com">  <img src="f.png" width="60" height="25"></a>
 <a href="https://www.youtube.com"><img src="y.png" width="60" height="25"></a>
@@ -179,7 +179,7 @@ mysqli_close($conn);
 <td colspan=3 bgcolor=gray>
 <table align="center" bgcolor=""><tr><td><font face="Times New Roman" color="white" size="3">
              
-Admass University of Collage Distance Eduction Office All Right are Reserved © 2010 E.C. 
+wolkite University of Collage Distance Eduction Office All Right are Reserved © 2010 E.C. 
        
 </font></td></tr></table>
 </td>
