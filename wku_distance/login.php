@@ -43,39 +43,37 @@ session_start();
         <li><a href="Economics.php">Economics</a></li>		  
         <li><a href="English.php">English</a></li>
         <li><a href="Mathematics.php">Mathematics</a></li>
-        <li><a href="Educational.php">Educational Planning Management</a></li>
+        <li><a href="Educational.php">Educational Planning and Management</a></li>
       </ul>	
    </li>
    <li><a href="Contact.php">Contact Us</a></li>
    <li><a href="feedback.php">Feedback</a></li>
    <li><a href="help.php">Help</a></li>
-   <li><a href="new1.php">Announcement</a></li>
+   <li><a href="new1.php"><b>Announcement</b></a></li>
    <li><a href="login.php">Login</a></li>
   </div>	 
 </td>
 </tr>
 <tr>
-<td height="250px" width="150px" bgcolor="#E5E4E2" valign="top">
-<table bgcolor="#E5E4E2" border="0" width="150" height="400" class="menu-bar" align="center">
+<td height="350px" width="150px" bgcolor="#E5E4E2" valign="top">
+<table bgcolor="#E5E4E2" border="0" width="200" height="400" class="menu-bar" align="center">
 <tr>
-<td width="110" height="20"><b><font color="white">
-<tr>
-<td width="110" height="20"><b><font color="white">
-<a href="dir.php" style="color:white">Office Director</a></font></b></td>
-<tr>
-<td width="150" height="20">
-<a href="regulation.php" id="drop"><b>Rule and Regulation</b></a></td>
+<td width="110" height="20"><b><font color="white"></font></b></td>
 </tr>
 <tr>
-<td>
-<img src="b3.gif" width="200" height="150">
-</td>
+<td width="110" height="20"><b><font color="white"><a href="dir.php" style="color:white">Office Director</a></font></b></td>
+</tr>
+<tr>
+<td width="150" height="20"><a href="regulation.php" id="drop"><b>Rules and Regulations</b></a></td>
+</tr>
+<tr>
+<td><img src="b3.gif" width="200" height="150"></td>
 </tr>
 </table>
 </td>
-<td style="background-color:;">
+<td valign="top" bgcolor="white">
 <form action="login.php" method="post" align="top">
-<table bgcolor="" style="background-color:#E5E4E2; border:1px solid #336699; width:450px; height:190px; border-radius:15px; box-shadow:1px 10px 10px gray" align="center">
+<table style="background-color:#E5E4E2; border:1px solid #336699; width:450px; height:190px; border-radius:15px; box-shadow:1px 10px 10px gray" align="center">
 <tr><td colspan="2" align="center"><center><img src="aa.jpg" width="250" height="80"></center></td></tr>
 <tr>
 <td colspan="2" align="center"><b><h3><font size="5" color="black">First Login</font></h3></b></td>
@@ -100,9 +98,8 @@ session_start();
 if (isset($_POST['submitMain'])) {
     $user = $_POST['mail'];
     $password = $_POST['pass'];
-    // $pass = base64_encode($password); // Remove if passwords are plain text now
     $stmt = $conn->prepare("SELECT * FROM account WHERE username = ? AND password = ?");
-    $stmt->bind_param("ss", $user, $password); // Use $password if plain text, $pass if base64
+    $stmt->bind_param("ss", $user, $password); // Assuming plain text passwords now
     $stmt->execute();
     $result = $stmt->get_result();
     $rowCheck = $result->num_rows;
@@ -137,7 +134,7 @@ if (isset($_POST['submitMain'])) {
     }
     $stmt->close();
 }
-mysqli_close($conn);
+$conn->close();
 ?>
 </td>
 <td width="150px">
