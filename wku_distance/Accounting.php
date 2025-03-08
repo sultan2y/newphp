@@ -84,7 +84,7 @@ The Department focuses on the operation of organisations and understanding custo
 <tr>
 <td valign=top bgcolor=white>
 <h2><center>
-<font color="black" face="monotype corsiva" size="5">Admass university  distance Office  works for change!!</font><br>
+<font color="black" face="monotype corsiva" size="5">Wolkite University Distance and continuing Education Office works for change!!</font><br>
 <font color="white"><iframe name="frame" width=300px height=385px src="date.php"></iframe><a></center></h2>
 <a href="https://www.facebook.com">  <img src="f.png" width="88" height="24"></a>
 <a href="https://www.youtube.com"><img src="y.png" width="88" height="24"></a>
@@ -98,7 +98,7 @@ The Department focuses on the operation of organisations and understanding custo
 
 <table align="center" bgcolor=""><tr><td><font face="Times New Roman" color="white" size="3">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Admass University of Collage Distance Eduction Office All Right are Reservd &copy; 2010 E.C. 
+Wolkite University Distance and continuing Education Office
  &nbsp; &nbsp; &nbsp; &nbsp;
 </font></td></tr></table>
 </td>

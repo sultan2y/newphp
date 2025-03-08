@@ -119,14 +119,14 @@ G/ Mikhail,Genet Mekonnen G/ Medhn and best hail yetbaberut Campania the initial
 <tr>
 <td valign=top bgcolor=#E0FFFF>
 <h2><center>
-<font color="black" face="monotype corsiva" size="5">Admass university  distance Office  works for change!!</font><br>
+<font color="black" face="monotype corsiva" size="5">Wolkite University Distance and continuing Education Office works for change!!</font><br>
 <font color="white"><a href="debre.php"><iframe name="frame" width=300px height=300px src="date.php"></iframe><a></center></h2>
 </td>
 </tr>
 <tr>
 <td >
 <marquee direction="up"><font face="Lucida Calligraphy" color="black" size="4">
-<center>Admass university distance education!!!</center></font></marquee></td></tr>
+<center>Wolkite University Distance and continuing Education Office!!!</center></font></marquee></td></tr>
 <tr>
 <td bgcolor="white"><img src="d4.JPG" width="200" height="150"></font></h3>
 </td>
@@ -139,7 +139,7 @@ G/ Mikhail,Genet Mekonnen G/ Medhn and best hail yetbaberut Campania the initial
 
 <table align="center" bgcolor="kebede"><tr><td><font face="Times New Roman" color="green" size="3">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;Admass Univresity Distance Eduction Office All Right are Reservd   &copy; 2010 E.C.
+&nbsp;Wolkite University Distance and continuing Education Office.
  &nbsp; &nbsp; &nbsp; &nbsp;
 </font></td></tr></table>
 </td>

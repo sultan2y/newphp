@@ -104,7 +104,7 @@ if (isset($_POST['submit'])) {
 <tr>
 <td valign="top" bgcolor="white">
 <h2><center>
-<font color="black" face="monotype corsiva" size="5">Wolkite University Distance Office Works for Change!!</font><br>
+<font color="black" face="monotype corsiva" size="5">Wolkite University Distance and continuing Education Office Works for Change!!</font><br>
 <iframe name="frame" width="350px" height="400px" src="date.php"></iframe>
 <a href="https://www.facebook.com"><img src="f.png" width="88" height="34"></a>
 <a href="https://www.youtube.com"><img src="y.png" width="88" height="34"></a>
@@ -117,7 +117,7 @@ if (isset($_POST['submit'])) {
 <tr>
 <td colspan="3" bgcolor="gray">
 <table align="center" bgcolor=""><tr><td><font face="Times New Roman" color="white" size="3">
-Wolkite University Distance Education Office All Rights Reserved © 2010 E.C.
+Wolkite University Distance and continuing Education Office 
 </font></td></tr></table>
 </td>
 </tr>

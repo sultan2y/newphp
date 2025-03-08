@@ -88,7 +88,7 @@ Since its inception, Wolkite University has grown to offer a range of undergradu
 <tr>
 <td valign="top" bgcolor="white">
 <h2><center>
-<font color="black" face="monotype corsiva" size="5">Wolkite University Distance Office Works for Change!!</font><br>
+<font color="black" face="monotype corsiva" size="5">Wolkite University Distance and continuing Education Office Works for Change!!</font><br>
 <iframe name="frame" width="300px" height="620px" src="date.php"></iframe>
 </center></h2>
 </td>
@@ -99,7 +99,7 @@ Since its inception, Wolkite University has grown to offer a range of undergradu
 <tr>
 <td colspan="3" bgcolor="gray">
 <table align="center" bgcolor=""><tr><td><font face="Times New Roman" color="white" size="3">
-Wolkite University Distance Education Office All Rights Reserved © 2010 E.C.
+Wolkite University Distance and continuing Education Office
 </font></td></tr></table>
 </td>
 </tr>
