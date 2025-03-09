@@ -147,7 +147,7 @@ echo' <meta content="2;assigncourse_student.php" http-equiv="refresh" />';
 <tr>
 <td valign=top bgcolor=white>
 <h2><center>
-<font color="black" face="monotype corsiva" size="5">Admass university  distance Office  works for change!!</font><br>
+<font color="black" face="monotype corsiva" size="5">wolkite university  distance Office  works for change!!</font><br>
 <font color="white"><a href="debre.php"><iframe name="frame" width=300px height=405px src="date.php"></iframe><a></center></h2>
 </td>
 </tr>
@@ -160,7 +160,7 @@ echo' <meta content="2;assigncourse_student.php" http-equiv="refresh" />';
 <td colspan=3 bgcolor=gray>
 <table align="center" bgcolor=""><tr><td><font face="Times New Roman" color="white" size="3">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Admass University of Collage Distance Eduction Office All Right are Reservd &copy; 2010 E.C. 
+wolkite University of Collage Distance Eduction Office  
  &nbsp; &nbsp; &nbsp; &nbsp;
 </font></td></tr></table>
 </td>

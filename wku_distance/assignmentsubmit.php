@@ -192,7 +192,7 @@ echo 	@$result;
 <tr>
 <td valign=top bgcolor=white>
 <h2><center>
-<font color="black" face="monotype corsiva" size="5">Admass university  distance Office  works for change!!</font><br>
+<font color="black" face="monotype corsiva" size="5">wolkite university  distance Office  works for change!!</font><br>
 <font color="white"><a href="debre.php"><iframe name="frame" width=300px height=405px src="date.php"></iframe><a></center></h2>
 </td>
 </tr>
@@ -206,7 +206,7 @@ echo 	@$result;
 
 <table align="center" bgcolor=""><tr><td><font face="Times New Roman" color="white" size="3">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb ~dulla^@204~ ~dulla^@204~ &nbsp;&nbsp;&nbsp;
-Admass Univresity~dulla^@204~ istance Eduction Office All Right are~dulla^@204~ y; 2010 E.C. 
+wolkite Univresity~dulla^@204~ istance Eduction Office  
 &nbsp; &nbsp; &nbsp; &~dulla^@204~ ></td></tr></table>
 </td>
 </tr>
